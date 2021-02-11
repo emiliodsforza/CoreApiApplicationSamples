@@ -28,8 +28,6 @@ C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApi
 C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApiApplicationSamples\CourseLibrary\CourseLibrary.API\obj\Debug\netcoreapp3.0\CourseLibrary.API.csprojAssemblyReference.cache
 C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApiApplicationSamples\CourseLibrary\CourseLibrary.API\obj\Debug\netcoreapp3.0\CourseLibrary.API.AssemblyInfoInputs.cache
 C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApiApplicationSamples\CourseLibrary\CourseLibrary.API\obj\Debug\netcoreapp3.0\CourseLibrary.API.AssemblyInfo.cs
-C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApiApplicationSamples\CourseLibrary\CourseLibrary.API\obj\Debug\netcoreapp3.0\CourseLibrary.API.csproj.CoreCompileInputs.cache
-C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApiApplicationSamples\CourseLibrary\CourseLibrary.API\obj\Debug\netcoreapp3.0\CourseLibrary.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApiApplicationSamples\CourseLibrary\CourseLibrary.API\obj\Debug\netcoreapp3.0\CourseLibrary.API.RazorTargetAssemblyInfo.cache
 C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApiApplicationSamples\CourseLibrary\CourseLibrary.API\obj\Debug\netcoreapp3.0\CourseLibrary.API.csproj.CopyComplete
 C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApiApplicationSamples\CourseLibrary\CourseLibrary.API\obj\Debug\netcoreapp3.0\staticwebassets\CourseLibrary.API.StaticWebAssets.Manifest.cache
@@ -37,3 +35,7 @@ C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApi
 C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApiApplicationSamples\CourseLibrary\CourseLibrary.API\obj\Debug\netcoreapp3.0\CourseLibrary.API.dll
 C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApiApplicationSamples\CourseLibrary\CourseLibrary.API\obj\Debug\netcoreapp3.0\CourseLibrary.API.pdb
 C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApiApplicationSamples\CourseLibrary\CourseLibrary.API\obj\Debug\netcoreapp3.0\CourseLibrary.API.genruntimeconfig.cache
+C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApiApplicationSamples\CourseLibrary\CourseLibrary.API\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApiApplicationSamples\CourseLibrary\CourseLibrary.API\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApiApplicationSamples\CourseLibrary\CourseLibrary.API\obj\Debug\netcoreapp3.0\CourseLibrary.API.csproj.CoreCompileInputs.cache
+C:\Users\emili\DBA Emilio Sforza\OneDrive - DBA Emilio Sforza\GitHubRoot\CoreApiApplicationSamples\CourseLibrary\CourseLibrary.API\obj\Debug\netcoreapp3.0\CourseLibrary.API.MvcApplicationPartsAssemblyInfo.cache

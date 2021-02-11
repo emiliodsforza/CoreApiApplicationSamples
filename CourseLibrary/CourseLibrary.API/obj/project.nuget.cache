@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "x0bKuxvZ4NpCppp6zeXbj672wFxQ3dXmJDYIvT/XzYLmD426EFxemFSo6DxuDuAjHKdZMqAPA9WE/YnXbTW0qQ==",
+  "dgSpecHash": "tyZvXWWOhELY0fi1YhekoWY+lKbOzKQLsUeZ1Z5uQ+rNsmGKOITYq+V4y7PddYlWBAEsiNDV84TrdBsc7jwvkA==",
   "success": true,
   "projectFilePath": "C:\\Users\\emili\\DBA Emilio Sforza\\OneDrive - DBA Emilio Sforza\\GitHubRoot\\CoreApiApplicationSamples\\CourseLibrary\\CourseLibrary.API\\CourseLibrary.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\emili\\.nuget\\packages\\automapper\\8.1.1\\automapper.8.1.1.nupkg.sha512",
+    "C:\\Users\\emili\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.1.1\\automapper.extensions.microsoft.dependencyinjection.6.1.1.nupkg.sha512",
     "C:\\Users\\emili\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\emili\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19249.1\\microsoft.data.sqlclient.1.0.19249.1.nupkg.sha512",
     "C:\\Users\\emili\\.nuget\\packages\\microsoft.entityframeworkcore\\3.0.0\\microsoft.entityframeworkcore.3.0.0.nupkg.sha512",
